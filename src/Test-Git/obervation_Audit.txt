@@ -1,0 +1,20 @@
+obesrvation:
+
+1.Duplication jobs are repetating in SEA those are not in SVN.
+
+2.PMO team has to provide proper SVN links in SEA report.
+
+3.Few jobs are no data but they have mentioned as completed and CCF applicable
+
+4.MOst of teh jobs are not placed COmmunication and rest all.
+
+5.if tehy not closing the NC on time --how i can proceed for Arhcival?
+
+6.if no data for few paraments may be the docs are not avaibale for teh project, if tehy give commenst 
+shall we need access teh nc or how -sugeestion(They are given tehir problems or someting)
+
+7.JAn and feb audit and archival is peding once SEA report hsraed by Mani i can satrt audit and share teh report with team.
+
+8. For jan and FEB team has to close the NC? or we can directly move the job to ATOMBOX?
+
+9.

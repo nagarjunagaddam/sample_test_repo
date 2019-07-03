@@ -1,0 +1,32 @@
+SEA Report:
+
+Step 1: copy the latest report in the resptive sheet (Only values and while past the date you should past and select the option as values.
+
+Step 2: Find /trunk* and replace with blank.
+
+step 3: Find helix.medschool.local:8443 and replace with helix:8443
+
+step 4: Find /View* and replce with blank
+
+step 5: check if % % the links and update the right link.
+
+step 6: Find /!/# and replace with /svn/
+
+Step 7: Check if its any project come as Pfizer Global then do manuvl configuration please place the 
+
+Step 8: every col we have copy and past in teh format of values 123
+
+stpe : remove / at end of teh project in sea report
+
+Once ready the SEA report with above steps, then we should fallow the below steps.
+
+Step : Delete the Pfizer NA US/NA/ALATM up to e charter and add the new report & place teh same.(Its for all regions we have to with new report)
+
+After placing the SEA report & SVNreport data(Every time we need to click on refresh all) in Sheet need to click on Data and select refresh all --So that region wise it will have the pivot chat
+
+CTRl D to extend the formula.
+
+
+Note : PMO team has to copy the link from browesr as arrow mark and provide teh same in SEA report
+
+While sharing the report with PMs, please remove the month column.
